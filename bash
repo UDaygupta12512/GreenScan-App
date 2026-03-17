@@ -1,0 +1,1 @@
+rm -f public/sw.js && npx convex dev --once && npx tsc -b --noEmit
